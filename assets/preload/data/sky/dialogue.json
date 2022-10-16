@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep"
+		},
+		{
+			"sound": "",
+			"speed": 0.045,
+			"portrait": "sky_an",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "huh?"
+		},
+		{
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep."
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "sky_an",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What do you mean you don't want to date me??"
+		},
+		{
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bop"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "sky_an",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What do you mean you're in a committed relationship??"
+		},
+		{
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep"
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "sky_an",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "N-NO NO wait!!"
+		}
+	]
+}

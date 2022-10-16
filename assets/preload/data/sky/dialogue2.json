@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "sky_an",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "FOR WHATT!!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep oop"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "sky_an",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "so..."
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "sky_an",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "it's that stupid girlfriend that's keeping you away from me??"
+		},
+		{
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "behp"
+		},
+		{
+			"sound": "",
+			"speed": 0.2,
+			"portrait": "sky_an",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "sky",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ".."
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "sky",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...no matter..."
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "sky",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..i'll just manifest her away"
+		},
+		{
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep o poo? "
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "sky",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "IT MEANS YOUR PRECIOUS LITTLE GIRLFRIEND IS GOOD AS GONE."
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "sky",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "FOR GOOD!!!!"
+		}
+	]
+}

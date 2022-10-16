@@ -1,0 +1,99 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "skystage",
+		"player1": "bf",
+		"player2": "sky_annoyed",
+		"player3": null,
+		"events": [
+			[
+				9000,
+				[
+					[
+						"Play Animation",
+						"oh",
+						"dad"
+					]
+				]
+			],
+			[
+				18600,
+				[
+					[
+						"Play Animation",
+						"oh",
+						"dad"
+					]
+				]
+			],
+			[
+				37875,
+				[
+					[
+						"Play Animation",
+						"grr",
+						"dad"
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-alt"
+					]
+				]
+			],
+			[
+				47400,
+				[
+					[
+						"Play Animation",
+						"grr",
+						"dad"
+					]
+				]
+			],
+			[
+				81150,
+				[
+					[
+						"Play Animation",
+						"huh",
+						"dad"
+					]
+				]
+			],
+			[
+				85725,
+				[
+					[
+						"Play Animation",
+						"ugh",
+						"dad"
+					]
+				]
+			],
+			[
+				85800,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						"idle-alt"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Sky"
+	}
+}
