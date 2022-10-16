@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "sky_mad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I what?"
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "sky_mad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you stole Boyfriend away from me.."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "?"
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "sky_mad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "and now. you. will. PAY"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ah. Que the obligatory last song transformation."
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "sky_mad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "YOU SHUT UP!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ha. you manifest crusifixions but can't manifest any guys."
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "sky_mad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'LL MAKE YOU EAT THOSE WORDS, RED HEAD BITCH!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "fuckyou",
+			"text": "Go shift to Danganronpa you dweeb  ;P"
+		},
+		{
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok GF, i think your being a bit mean don't you think..?"
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "sky_mad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Don't you worry my sweet boyfriend."
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "sky_mad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You won't ever have to worry about her rude ass no longer"
+		},
+		{
+			"sound": "",
+			"speed": 0.07,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep?"
+		}
+	]
+}
