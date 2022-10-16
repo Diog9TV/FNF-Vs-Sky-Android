@@ -1,8 +1,8 @@
 {
-	"dialogue_pos": "right",
+	"dialogue_pos": "left",
 	"position": [
-		-30,
-		88
+		130,
+		95
 	],
 	"scale": 1.25,
 	"animations": [
@@ -16,7 +16,7 @@
 				0,
 				0
 			],
-			"loop_name": "bfport",
+			"loop_name": "portrait",
 			"idle_name": "BF0"
 		},
 		{
@@ -72,5 +72,5 @@
 			"loop_name": "BF CONFUSED LOOP"
 		}
 	],
-	"image": "bf"
+	"image": "sky"
 }
