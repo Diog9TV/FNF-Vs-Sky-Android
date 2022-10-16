@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep?"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "sky",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "IT WORKED!!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "sky",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "THE SHIFT WORKED!!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.045,
+			"portrait": "sky",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Now we can be together forever, The Boyfriend!"
+		},
+		{
+			"sound": "",
+			"speed": 0.065,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bop beeop?"
+		}
+	]
+}
